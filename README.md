@@ -94,4 +94,50 @@ Cosas que haremos en el curso
 
 ## Clase 4
 
-    
+- Diagramas de modelado (OMT 1991)
+    - Fue la primera iteracion de la diagramacion de objetos
+
+- Diagramas UML (1997)
+    - Clases
+    - Casos de uso
+    - Objetos
+    - Actividades
+    - Iterraciones
+    - Estados
+    - Implementacion
+
+## Clase 5
+
+- Primero Identificar los objetos
+    - Siempre tienen :
+        - Sustantivos
+        - Propiedades -> Atributos -> Sustantivos del Objeto
+        - Comportamientos -> Metodos -> Verbos del Objeto
+    - Pueden ser :
+        - Fisicos
+        - Abstractos
+
+
+## Clase 6
+
+- Abtraccion
+    - Es el proceso de identificar los atributos y metodos que son relevantes para el objeto
+    - Es el proceso de ocultar los detalles de implementacion y mostrar solo la interfaz al usuario
+    - Es el proceso de separar la interfaz de la implementacion
+- Clases
+    - Es un molde para crear objetos
+
+## Clase 7
+
+- Modularidad
+    - Diseño Modular
+        - Es el proceso de dividir un sistema en partes independientes
+        - Divide y venceras
+        - Reutilizacion de codigo
+        - Facilidad de mantenimiento
+        - Reduccion de errores y Problemas
+        - Clases en archivos separados (.java)
+
+## Clase 8
+
+- Analisis de uber para desglose de objetos
